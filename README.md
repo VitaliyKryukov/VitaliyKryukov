@@ -1,4 +1,4 @@
-[![Header](https://github.com/VitaliyKryukov/VitaliyKryukov/blob/main/assets/header.jpg&width=max-content)]
+[![Header](https://github.com/VitaliyKryukov/VitaliyKryukov/blob/main/assets/header.jpg width=100%)]
 
 ## I'm a front-end developer who loves to improve my skills.
 
