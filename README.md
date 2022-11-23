@@ -1,6 +1,6 @@
-[![Header]https://github.com/VitaliyKryukov/VitaliyKryukov/blob/main/assets/header.jpg]
+![Header]https://github.com/VitaliyKryukov/VitaliyKryukov/blob/main/assets/header.jpg
 
-About me
+## I'm a front-end developer who loves to improve my skills.
 
 
 Leanguages and Tools
