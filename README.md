@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src=https://i.gifer.com/7SvE.gif />
+  <img src="https://i.gifer.com/7SvE.gif"  />
 </div>
 
 
@@ -22,5 +22,7 @@
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=03c2fc)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=0384fc)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=E5D3FF)
-![](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![Sass](https://img.shields.io/badge/Sass-090909?style=for-the-badge&logo=Sass&logoColor=a83273)
+![ReactNative](https://img.shields.io/badge/ReactNative-090909?style=for-the-badge&logo=React&logoColor=03c2fc)
+![Node.js](https://img.shields.io/badge/Node.js-090909?style=for-the-badge&logo=Node.js&logoColor=2c6e2e)
 
