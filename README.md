@@ -3,7 +3,7 @@
 </div>
 
 
-<div id="badges">
+<div id="badges" align="center">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   <img src="https://img.shields.io/badge/WhatsApp-gree?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp Badge"/>
   <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
