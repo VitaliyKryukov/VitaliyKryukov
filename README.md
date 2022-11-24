@@ -1,3 +1,5 @@
+
+
 <div id="header" align="center">
   <img src="https://flomaster.club/uploads/posts/2022-08/1660766104_2-flomaster-club-p-programmist-kartinki-dlya-detei-krasivo-3.jpg" width=50%/>
 </div>
@@ -7,12 +9,17 @@
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   <img src="https://img.shields.io/badge/WhatsApp-gree?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp Badge"/>
   <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
+  
 </div>
 
 
 <h1 align="center">Hi there, I'm <a href=http://mypersportf.ru/ target="_blank">Vitaliy</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 </h1>
+
+### About Me:
+
+
 
 
  ### Languages and Tools:
@@ -26,3 +33,5 @@
 ![ReactNative](https://img.shields.io/badge/ReactNative-090909?style=for-the-badge&logo=React&logoColor=03c2fc)
 ![Node.js](https://img.shields.io/badge/Node.js-090909?style=for-the-badge&logo=Node.js&logoColor=2c6e2e)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitaliyKryukov&show_icons=true&theme=radical)](https://github.com/VitaliyKryukov/github-readme-stats)
