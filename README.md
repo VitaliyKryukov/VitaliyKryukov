@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://flomaster.club/uploads/posts/2022-08/1660766104_2-flomaster-club-p-programmist-kartinki-dlya-detei-krasivo-3.jpg" height=50%/>
+  <img src="https://flomaster.club/uploads/posts/2022-08/1660766104_2-flomaster-club-p-programmist-kartinki-dlya-detei-krasivo-3.jpg" width=50%/>
 </div>
 
 
