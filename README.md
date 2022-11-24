@@ -17,10 +17,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 </h1>
 
-### About Me:
-
-
-
+<div>
+### I’m an aspiring frontend developer who likes improving own skills 📚 Based in Moscow 
+</div>
 
  ### Languages and Tools:
 ![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=F88C00)
@@ -34,4 +33,4 @@
 ![Node.js](https://img.shields.io/badge/Node.js-090909?style=for-the-badge&logo=Node.js&logoColor=2c6e2e)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitaliyKryukov&show_icons=true&theme=radical)](https://github.com/VitaliyKryukov/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitaliyKryukov&show_icons=true&theme=tokyonight)](https://github.com/VitaliyKryukov/github-readme-stats)
