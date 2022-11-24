@@ -17,9 +17,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 </h1>
 
-<div>
-### I’m an aspiring frontend developer who likes improving own skills 📚 Based in Moscow 
-</div>
+
+<p align='left'>I’m an aspiring frontend developer who likes improving own skills 📚 Based in Moscow 🌆</p>
+
 
  ### Languages and Tools:
 ![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=F88C00)
@@ -33,4 +33,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-090909?style=for-the-badge&logo=Node.js&logoColor=2c6e2e)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitaliyKryukov&show_icons=true&theme=tokyonight)](https://github.com/VitaliyKryukov/github-readme-stats)
+## 📈 Github Stats  
+<table><tr><td valign="top" width="50%">
+  <img height="207em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitaliyKryukov&border_radius=5&layout=compact&langs_count=10&hide_border=true" align="center"/>
+</td><td valign="top" width="50%">
+  <img height="207em" src="https://github-readme-stats.vercel.app/api?username=VitaliyKryukov&count_private=true&show_icons=true&border_radius=5&custom_title=&line_height=28&hide_border=true" align="center"/>
+</td></tr></table>  
